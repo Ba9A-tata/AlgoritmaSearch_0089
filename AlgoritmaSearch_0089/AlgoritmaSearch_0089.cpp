@@ -1,4 +1,5 @@
-#include <iostram>
+#include <iostream>
 using namespace std;
 
 int arr[20]; // Array to be seacrhed 
+int n;		  // Number of elements in the array
